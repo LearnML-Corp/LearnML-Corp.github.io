@@ -8,7 +8,7 @@ Welcome to LearnML-Corp! We are an organization that aims to provide knowledge, 
 
 - [Blog](/blog.md) , [Courses](/courses.md) , [Projects](/projects.md) , [Research](/research.md)
 
-See all content : [Content list](/content.md)
+- See all content : [Content list](/content.md)
 
 ## What's new
 
