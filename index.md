@@ -10,7 +10,7 @@ See all content : [Content list](/content.md)
 
 - There is a new website available! We have given our LearnML wiki a new look and restructured everything! Check out the new website and feel free to give feedback!
 
-[New Website | LearnML-Wiki](learnml-corp.github.io)
+[New Website - LearnML-Wiki](https://learnml-corp.github.io)
 
 ## Contact
 
