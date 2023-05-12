@@ -18,7 +18,7 @@ See all content : [Content list](/content.md)
 
 Administration : [LordBlacky](https://github.com/LordBlacky) , [Liam Nordvall](https://github.com/wallahi06)
 
-Mail : [liam_nordvall@hotmail.com](liam_nordvall@hotmail.com)
+Mail : [liam_nordvall@hotmail.com](mailto:liam_nordvall@hotmail.com)
 
 GitHub : [GitHub](https://github.com/LearnML-Corp)
 
