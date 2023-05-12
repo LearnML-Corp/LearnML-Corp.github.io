@@ -1,6 +1,6 @@
 ## See all content on LearnML-Wiki
 
-[Back to startpage]((index.md)
+[Back to startpage](/index.md)
 
 ### Our Content
 

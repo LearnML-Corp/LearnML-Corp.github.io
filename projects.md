@@ -1,3 +1,3 @@
 ## Project page
 
-[Back to startpage]((index.md)
+[Back to startpage](/index.md)
