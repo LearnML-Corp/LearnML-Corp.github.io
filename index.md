@@ -6,7 +6,17 @@ Welcome to LearnML-Corp! We are an organization that aims to provide knowledge, 
 
 See all content : [Content list](/content.md)
 
+## What's new
+
+- There is a new website available! We have given our LearnML wiki a new look and restructured everything! Check out the new website and feel free to give feedback!
+
+[New Website | LearnML-Wiki](learnml-corp.github.io)
+
 ## Contact
+
+Administration : [LordBlacky](https://github.com/LordBlacky) , [Liam Nordvall](https://github.com/wallahi06)
+
+Mail : [liam_nordvall@hotmail.com](liam_nordvall@hotmail.com)
 
 GitHub : [GitHub](https://github.com/LearnML-Corp)
 
