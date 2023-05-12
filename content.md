@@ -1,5 +1,9 @@
 ## See all content on LearnML-Wiki
 
+[Back to startpage]((index.md)
+
+### Our Content
+
 - [Content list](/content.md)
 
 - [Blog page](/blog.md)
@@ -8,4 +12,4 @@
 
 - [Project page](/projects.md)
 
--[Research page](/research.md)
+- [Research page](/research.md)
