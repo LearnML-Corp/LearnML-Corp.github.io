@@ -6,6 +6,6 @@ Welcome to LearnML-Corp! We are an organization that aims to provide knowledge, 
 
 GitHub : [GitHub](https://github.com/LearnML-Corp)
 
-Discord : [Discord](Coming Soon!) Coming Soon!
+Discord : Coming Soon!
 
 YouTube : [YouTube](https://www.youtube.com/@LearnMLHub)
