@@ -24,4 +24,4 @@ If you have always wanted to offer your own course and share our philosophy, you
 
 - Developer (Python C, C++)
 
-> We can send you more details about the job offers; feel free to ask any questions about career at LearnML under [Contact](https://learnml-corp.github) .
+> We can send you more details about the job offers; feel free to ask any questions about career at LearnML under [Contact](https://learnml-corp.github.io/) .
