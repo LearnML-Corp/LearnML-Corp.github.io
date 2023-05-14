@@ -25,3 +25,7 @@ GitHub : [GitHub](https://github.com/LearnML-Corp)
 Discord : Coming Soon!
 
 YouTube : [YouTube](https://www.youtube.com/@LearnMLHub)
+
+## Staff
+
+Internal : [Internal pages](https://github.com/LearnML-Corp/LECTURE-MATERIAL-Private-/blob/2b25d0ffbfcb3669dfa4480a32953dc16fb38ca2/introduction_to_deep_learning.md)
