@@ -18,7 +18,7 @@
 
 ## Lectures [Currently not available : Registration not possible]
 
-# No.1 | Introduction to Deep Learning \[Coming soon] | Course-ID : \#001
+# Introduction to Deep Learning \[Coming soon] Course-ID : \#001
 
  ![Introduction to Deep Learning Wallaper](/images/neural_a.png)
 
