@@ -1,6 +1,6 @@
 # Current LearnML Staff
 
-[Back to startpage](/index.md)
+[Back to startpage](https://learnml-corp.github.io/)
 
 ---
 
