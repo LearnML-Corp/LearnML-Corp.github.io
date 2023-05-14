@@ -16,6 +16,8 @@ Welcome to LearnML-Corp! We are an organization that aims to provide knowledge, 
 
 ## Contact
 
+Current Staff : [LearnML Staff](/staff/staff.md)
+
 Administration : [LordBlacky](https://github.com/LordBlacky) , [Liam Nordvall](https://github.com/wallahi06)
 
 Mail : [liam_nordvall@hotmail.com](mailto:liam_nordvall@hotmail.com)
