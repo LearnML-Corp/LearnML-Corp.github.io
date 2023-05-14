@@ -9,8 +9,11 @@
 ## Introduction to Deep Learning \[Coming soon] Course-ID : \#001
 
  ![Introduction to Deep Learning Wallaper](/images/neural_a.png)
+
+> Deep Learning is a rather modern subfield of Machine Learning,which has a particularly high value nowadays. 
+> Deep Learning offers a great variety in its application and especially the basics are not that difficult to learn.
+
 ```
-Deep Learning is a rather modern subfield of Machine Learning, which has a particularly high value nowadays. Deep Learning offers a great variety in its application and especially the basics are not that difficult to learn.
 
     - Dates of events : not available
     - Lecturers: LordBlacky, Liam Nordvall
