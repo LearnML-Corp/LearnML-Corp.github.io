@@ -14,6 +14,13 @@ Welcome to LearnML-Corp! We are an organization that aims to provide knowledge, 
 
 - There is a new website available! We have given our LearnML wiki a new look and restructured everything! Check out the new website and feel free to give feedback! [New Website - LearnML-Wiki](https://learnml-corp.github.io)
 
+- IMPORTANT : We are currently hiring new people to support our organization!
+Under [LearnML Jobs](/career/career.md) you can find all information about open positions. Maybe there is something for you? Then send us a message using one of the contact options below. We are looking forward to your support!
+
+## Career at LearnML
+
+Current Jobs : [LearnML Jobs](/career/career.md)
+
 ## Contact
 
 Current Staff : [LearnML Staff](/staff/staff.md)
