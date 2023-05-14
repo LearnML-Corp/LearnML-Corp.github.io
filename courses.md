@@ -17,6 +17,7 @@
 
     - Dates of events : not available
     - Lecturers: LordBlacky, Liam Nordvall
+    - Language : English
 
     - Lecture Content
 
@@ -65,6 +66,7 @@
 
     - Dates of events : not available
     - Lecturers: Liam Nordvall, LordBlacky
+    - Language: English
 
     - Lecture Content
 
@@ -84,6 +86,39 @@
 
         - Input and Output
         
+        - Summary
+
+        - What to learn now?
+
+
+```
+
+---
+
+## Mathematical methods of proof 1 \[Coming soon] Course-ID : #003
+
+![Mathematical methods of proof 1 Wallaper](/images/induction_a.png)
+
+> Proof methods are an elementary technique to learn in mathematics. 
+> In this course, we teach the basic proof methods and their practical application.
+> It is a basic course, but certain mathematical basics are required, such as summation signs, basic propositional logic, logical thinking.
+
+```
+
+    - Dates of events : not available
+    - Lecturers: LordBlacky
+    - Language: German
+
+    - Lecture Content
+
+        - Mathematical methods of proof 1 | Intro
+
+        - Direct proof method
+
+        - Indirect proof method, Reductio ad absurdum
+
+        - Finite Induction / Mathematical Induction
+
         - Summary
 
         - What to learn now?
