@@ -3,14 +3,14 @@
 [Back to startpage](/index.md)
 
 ---
-## Lectures [Current courses : Registration closed]
+## Lectures \[Current courses : Registration closed]
 
 
 -  Due to changes in the organization, no courses are available at the moment! We ask for your understanding! Courses will be unlocked again soon!
 
 ---
 
-## Lectures [Available courses : Registration still possible]
+## Lectures \[Available courses : Registration still possible]
 
 -  Due to changes in the organization, no courses are available at the moment! We ask for your understanding! Courses will be unlocked again soon!
 
@@ -18,7 +18,7 @@
 
 ## Lectures [Currently not available : Registration not possible]
 
- # Introduction to Deep Learning [Coming soon]
+# Introduction to Deep Learning \[Coming soon]
 
  ![Introduction to Deep Learning Wallaper](/images/neural_a.png)
 
@@ -61,7 +61,7 @@
 
 ---
 
-## Lectures [Outdated courses : Registration not possible]
+## Lectures \[Outdated courses : Registration not possible]
 
 - No Courses available!
 
