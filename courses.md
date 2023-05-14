@@ -2,27 +2,15 @@
 
 [Back to startpage](/index.md)
 
----
-## Lectures \[Current courses : Registration closed]
-
-
--  Due to changes in the organization, no courses are available at the moment! We ask for your understanding! Courses will be unlocked again soon!
+# Lectures
 
 ---
 
-## Lectures \[Available courses : Registration still possible]
-
--  Due to changes in the organization, no courses are available at the moment! We ask for your understanding! Courses will be unlocked again soon!
-
----
-
-## Lectures [Currently not available : Registration not possible]
-
-# Introduction to Deep Learning \[Coming soon] Course-ID : \#001
+## Introduction to Deep Learning \[Coming soon] Course-ID : \#001
 
  ![Introduction to Deep Learning Wallaper](/images/neural_a.png)
-
-> - Deep Learning is a rather modern subfield of Machine Learning, which has a particularly high value nowadays. Deep Learning offers a great variety in its application and especially the basics are not that difficult to learn.
+```
+Deep Learning is a rather modern subfield of Machine Learning, which has a particularly high value nowadays. Deep Learning offers a great variety in its application and especially the basics are not that difficult to learn.
 
     - Dates of events : not available
     - Lecturers: LordBlacky, Liam Nordvall
@@ -57,12 +45,6 @@
         - Summary to Deep Learning Basics
 
         - What to learn now?
-
-
----
-
-## Lectures \[Outdated courses : Registration not possible]
-
-- No Courses available!
+```
 
 ---
