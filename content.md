@@ -13,3 +13,5 @@
 - [Project page](/projects.md)
 
 - [Research page](/research.md)
+
+- [Publication page](/paper/publications.md)
